@@ -3,7 +3,7 @@ package transport
 import (
 	"encoding/base64"
 	"encoding/json"
-	"gorelamo/errors"
+	"github.com/JoyYou19/gorelamo/errors"
 	"strings"
 )
 

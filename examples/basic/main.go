@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"gorelamo"
-	"gorelamo/config"
+	"github.com/JoyYou19/gorelamo"
+	"github.com/JoyYou19/gorelamo/config"
 )
 
 func main() {

@@ -1,6 +1,6 @@
 package database
 
-import "gorelamo/types"
+import "github.com/JoyYou19/gorelamo/types"
 
 func (db *Database) Lookup(id any) (types.Document, error) {
 	payload := map[string]any{

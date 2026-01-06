@@ -2,7 +2,7 @@ package database
 
 import (
 	"fmt"
-	"gorelamo/transport"
+	"github.com/JoyYou19/gorelamo/transport"
 )
 
 type Database struct {

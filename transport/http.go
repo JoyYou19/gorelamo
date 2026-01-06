@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/base64"
 	"encoding/json"
-	"gorelamo/config"
+	"github.com/JoyYou19/gorelamo/config"
 	"io"
 	"net/http"
 )

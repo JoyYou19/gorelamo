@@ -1,9 +1,9 @@
 package gorelamo
 
 import (
-	"gorelamo/config"
-	"gorelamo/database"
-	"gorelamo/transport"
+	"github.com/JoyYou19/gorelamo/config"
+	"github.com/JoyYou19/gorelamo/database"
+	"github.com/JoyYou19/gorelamo/transport"
 )
 
 type Client struct {

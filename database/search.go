@@ -2,7 +2,7 @@ package database
 
 import (
 	"fmt"
-	"gorelamo/types"
+	"github.com/JoyYou19/gorelamo/types"
 )
 
 type SearchQuery struct {
